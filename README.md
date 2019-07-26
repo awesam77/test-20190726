@@ -6,6 +6,7 @@ Execute the command below.
 1. Create virtual environment using python3. Python version should be: Python 3+
 
 > python3 -m venv .venv
+
 > python --version
 
 2. Install all the libraries needed in the app.
